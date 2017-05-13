@@ -2,7 +2,7 @@ import sublime
 import sublime_plugin
 
 
-class ToggleNeovintageous(sublime_plugin.WindowCommand):
+class ToggleNeovintageous(sublime_plugin.ApplicationCommand):
 
     """
     A command that toggles the NeoVintageous plugin.
