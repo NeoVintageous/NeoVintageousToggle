@@ -20,4 +20,4 @@ class ToggleNeovintageous(sublime_plugin.ApplicationCommand):
         settings.set('ignored_packages', ignored_packages)
         sublime.save_settings('Preferences.sublime-settings')
 
-        sublime.status_message('ToggleNeoVintageous: {}'.format(status))
+        sublime.status_message('NeoVintageous is {}'.format(status))
