@@ -3,10 +3,7 @@ import sublime_plugin
 
 
 class ToggleNeovintageous(sublime_plugin.ApplicationCommand):
-
-    """
-    A command that toggles the NeoVintageous plugin.
-    """
+    """A command that toggles the NeoVintageous plugin."""
 
     def run(self):
         settings = sublime.load_settings('Preferences.sublime-settings')
