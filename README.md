@@ -1,10 +1,8 @@
 # ToggleNeoVintageous
 
-[![Minimum Sublime Version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg?style=flat-square)](https://sublimetext.com)
-[![GitHub stars](https://img.shields.io/github/stars/NeoVintageous/ToggleNeoVintageous.svg?style=flat-square)](https://github.com/NeoVintageous/ToggleNeoVintageous/stargazers)
-[![Latest Stable Version](https://img.shields.io/github/tag/NeoVintageous/ToggleNeoVintageous.svg?style=flat-square&label=release)](https://github.com/NeoVintageous/ToggleNeoVintageous/tags)
+[![Minimum Sublime Version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg)](https://sublimetext.com) [![Latest Stable Version](https://img.shields.io/github/tag/NeoVintageous/ToggleNeoVintageous.svg?label=stable)](https://github.com/NeoVintageous/ToggleNeoVintageous/tags) [![GitHub stars](https://img.shields.io/github/stars/NeoVintageous/ToggleNeoVintageous.svg)](https://github.com/NeoVintageous/ToggleNeoVintageous/stargazers) [![Source Code](https://img.shields.io/badge/source-github-blue.svg)](https://github.com/NeoVintageous/ToggleNeoVintageous)
 
-A command to toggle NeoVintageous on/off.
+A command to toggle [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous).
 
 ## INSTALLATION
 
@@ -21,7 +19,7 @@ The preferred method of installation is [Package Control](https://packagecontrol
     * Windows: `git clone https://github.com/NeoVintageous/ToggleNeoVintageous.git %APPDATA%\Sublime/ Text/ 3/Packages/ToggleNeoVintageous`
 3. Done!
 
-## Commands
+## USAGE
 
 Command | Description
 ------- | -----------
