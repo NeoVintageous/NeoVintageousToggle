@@ -25,6 +25,17 @@ Command | Description
 ------- | -----------
 Toggle NeoVintageous | Toggles the NeoVintageous plugin on and off
 
+### Key binding
+
+There is no default key binding; add your preferred mapping: `Menu > Preferences > Key Bindings`
+
+
+```json
+[
+    { "keys": ["ctrl+alt+shift+t"], "command": "toggle_neovintageous" }
+]
+```
+
 ## LICENSE
 
 Released under the [MIT License](LICENSE).
