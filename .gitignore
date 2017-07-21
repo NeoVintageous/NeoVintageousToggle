@@ -6,10 +6,6 @@
 
 /tmp/
 
-# Sublime Text
-/*.sublime-workspace
-
-
 # VIM
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
@@ -17,4 +13,6 @@
 Session.vim
 .netrwhist
 *~
-tags
+
+# Sublime Text
+*.sublime-workspace

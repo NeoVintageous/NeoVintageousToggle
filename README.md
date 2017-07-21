@@ -1,6 +1,6 @@
 # ToggleNeoVintageous
 
-[![Minimum Sublime Version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg)](https://sublimetext.com) [![Latest Stable Version](https://img.shields.io/github/tag/NeoVintageous/ToggleNeoVintageous.svg?label=stable)](https://github.com/NeoVintageous/ToggleNeoVintageous/tags) [![GitHub stars](https://img.shields.io/github/stars/NeoVintageous/ToggleNeoVintageous.svg)](https://github.com/NeoVintageous/ToggleNeoVintageous/stargazers) [![Source Code](https://img.shields.io/badge/source-github-blue.svg)](https://github.com/NeoVintageous/ToggleNeoVintageous)
+[![Minimum Sublime Version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg?style=flat-square)](https://sublimetext.com) [![Latest Stable Version](https://img.shields.io/github/tag/NeoVintageous/ToggleNeoVintageous.svg?style=flat-square&label=stable)](https://github.com/NeoVintageous/ToggleNeoVintageous/tags) [![GitHub stars](https://img.shields.io/github/stars/NeoVintageous/ToggleNeoVintageous.svg?style=flat-square)](https://github.com/NeoVintageous/ToggleNeoVintageous/stargazers) [![Downloads](https://img.shields.io/packagecontrol/dt/ToggleNeoVintageous.svg?style=flat-square)](https://packagecontrol.io/packages/ToggleNeoVintageous)
 
 A command to toggle [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous).
 
@@ -24,8 +24,6 @@ The preferred method of installation is [Package Control](https://packagecontrol
 Command | Description
 ------- | -----------
 Toggle NeoVintageous | Toggles the NeoVintageous plugin on and off
-
-### Key binding
 
 There is no default key binding; add your preferred mapping: `Menu > Preferences > Key Bindings`
 
