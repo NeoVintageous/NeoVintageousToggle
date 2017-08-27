@@ -5,7 +5,6 @@ from sublime_plugin import ApplicationCommand
 
 
 class ToggleNeovintageousCommand(ApplicationCommand):
-    """A command that toggles the NeoVintageous plugin."""
 
     def run(self):
         settings = load_settings('Preferences.sublime-settings')
@@ -20,7 +19,6 @@ class ToggleNeovintageousCommand(ApplicationCommand):
 
         ignored_packages.sort()
         settings.set('ignored_packages', ignored_packages)
-
         save_settings('Preferences.sublime-settings')
 
-        status_message('NeoVintageous is {}'.format(status))
+        status_message('NeoVintageous {}'.format(status))
