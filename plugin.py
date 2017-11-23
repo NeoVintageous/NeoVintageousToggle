@@ -1,10 +1,10 @@
 from sublime import load_settings
 from sublime import save_settings
 from sublime import status_message
-from sublime_plugin import ApplicationCommand
+import sublime_plugin
 
 
-class ToggleNeovintageousCommand(ApplicationCommand):
+class ToggleNeovintageousCommand(sublime_plugin.ApplicationCommand):
 
     def run(self):
         settings = load_settings('Preferences.sublime-settings')
