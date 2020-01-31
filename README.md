@@ -2,7 +2,7 @@
 
 A command to toggle [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous).
 
-[![Minimum Sublime Version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg?style=flat-square)](https://sublimetext.com) [![Latest Stable Version](https://img.shields.io/github/tag/NeoVintageous/ToggleNeoVintageous.svg?style=flat-square&label=stable)](https://github.com/NeoVintageous/ToggleNeoVintageous/tags) [![GitHub stars](https://img.shields.io/github/stars/NeoVintageous/ToggleNeoVintageous.svg?style=flat-square)](https://github.com/NeoVintageous/ToggleNeoVintageous/stargazers) [![Downloads](https://img.shields.io/packagecontrol/dt/ToggleNeoVintageous.svg?style=flat-square)](https://packagecontrol.io/packages/ToggleNeoVintageous)
+[![Minimum Sublime Version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg?style=flat-square)](https://sublimetext.com) [![Latest Version](https://img.shields.io/github/tag/NeoVintageous/ToggleNeoVintageous.svg?style=flat-square&label=version)](https://github.com/NeoVintageous/ToggleNeoVintageous/tags) [![GitHub stars](https://img.shields.io/github/stars/NeoVintageous/ToggleNeoVintageous.svg?style=flat-square)](https://github.com/NeoVintageous/ToggleNeoVintageous/stargazers) [![Downloads](https://img.shields.io/packagecontrol/dt/ToggleNeoVintageous.svg?style=flat-square)](https://packagecontrol.io/packages/ToggleNeoVintageous)
 
 ## INSTALLATION
 
