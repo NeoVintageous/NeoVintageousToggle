@@ -2,6 +2,8 @@
 
 A command to toggle [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous).
 
+**Renamed from ToggleNeoVintageous → NeoVintageousToggle.**
+
 ## Installation
 
 Install via [Package Control](https://packagecontrol.io/packages/NeoVintageousToggle).
