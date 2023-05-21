@@ -4,7 +4,7 @@ from sublime import status_message
 import sublime_plugin
 
 
-class ToggleNeovintageousCommand(sublime_plugin.ApplicationCommand):
+class NeovintageousToggle(sublime_plugin.ApplicationCommand):
 
     def run(self):
         settings = load_settings('Preferences.sublime-settings')

@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Toggle NeoVintageous",
-        "command": "toggle_neovintageous"
+        "caption": "NeoVintageous: Toggle",
+        "command": "neovintageous_toggle"
     }
 ]
