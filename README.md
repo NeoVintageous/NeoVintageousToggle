@@ -23,3 +23,7 @@ Add your preferred key bindings.
 Command                         | Description
 :------------------------------ | :----------
 **NeoVintageous:&nbsp;Toggle**  | Toggle NeoVintageous plugin.
+
+## License
+
+Released under the [GPL-3.0-or-later License](LICENSE).
