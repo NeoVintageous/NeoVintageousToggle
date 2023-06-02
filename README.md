@@ -1,4 +1,4 @@
-# NeoVintageousToggle
+# NeoVintageous Toggle
 
 A command to toggle [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous).
 
@@ -6,7 +6,7 @@ A command to toggle [NeoVintageous](https://github.com/NeoVintageous/NeoVintageo
 
 ## Installation
 
-Install via [Package Control](https://packagecontrol.io/packages/NeoVintageousToggle).
+Install [NeoVintageousToggle](https://packagecontrol.io/packages/NeoVintageousToggle) via Package Control.
 
 ## Setup
 
